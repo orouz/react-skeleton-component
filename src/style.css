@@ -1,0 +1,8 @@
+@keyframes skeleton_loading {
+  from {
+    background-position: -100%;
+  }
+  to {
+    background-position: 0%;
+  }
+}
